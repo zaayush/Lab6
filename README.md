@@ -10,7 +10,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Or just go the link : [Cover Letter Generator](aayushlab6.azurewebsites.net)
+Or just go the link : [Cover Letter Generator](https://aayushlab6.azurewebsites.net/)
 
 ## What's Included
 
